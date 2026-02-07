@@ -1,0 +1,33 @@
+{
+  "candidate": {
+    "name": "",
+    "college": "",
+    "year": "",
+    "email": ""
+  },
+
+  "github": {
+    "username": "",
+    "repository": ""
+  },
+
+  "internship": {
+    "task_selected": "",
+    "tech_stack": [],
+    "language": ""
+  },
+
+  "ai_usage": {
+    "used_ai": true,
+    "tools": [],
+    "exact_usage": ""
+  },
+
+  "work_summary": {
+    "commit_count": 0,
+    "time_spent_hours": 0,
+    "what_i_built": "",
+    "hardest_part": "",
+    "what_breaks_when_scaled": ""
+  }
+}
